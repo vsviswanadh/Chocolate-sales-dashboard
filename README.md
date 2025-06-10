@@ -1,4 +1,6 @@
 ﻿# Chocolate-sales-dashboard
+ ![image](https://github.com/user-attachments/assets/872a5de3-a8a2-41c1-9dfd-ee15eb12fe49)
+
  
 # First Tableau Business Dashboard Project
 
